@@ -5,8 +5,6 @@ function toggleSound() {
   else
     audioElem.pause();
 }
-
-
 $(document).ready(function(){
 
   var modalzero = $('.android');
@@ -17,9 +15,6 @@ $(document).ready(function(){
   $('.close-modal').click(function() {
    modalzero.hide();
   });
-
-
-
   var modalone = $('.schedule');
   $('.show-modal-schedule').click(function() {
   modalone.show();
@@ -63,10 +58,10 @@ $(document).ready(function() {
     $('.nav-toggle').click(function(e) {
     	e.preventDefault();
     	$('nav').toggleClass('nav-open');
+      $('.android-logo').toggleClass('android-logo-index');
       $('#nav-tog').toggleClass('nav-tog-open');
     });
 });
-
 $(document).ready(function(){
   $('#dntrigger').click(function(){
     $('.nav-not-icon').addClass('nonee');
@@ -118,6 +113,7 @@ $(window).load(function () {
 			setTimeout(function () {
 				$('.part-two').css('opacity','1');
 			}, '1100');
+
 });
 
 $(window).load(function() {

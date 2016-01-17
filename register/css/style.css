@@ -4,9 +4,9 @@
 }
 body
 {
-  /*background-image: url(/register/img/register.png);
+  background-image: url(/extras/register.png);
   background-size:cover;
-  background-repeat: no-repeat;*/
+  background-repeat: no-repeat;
 }
 body::-webkit-scrollbar {
 	width:10px;
