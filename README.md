@@ -4,4 +4,4 @@ Abhivyakti is the one of the most sought after college Extravaganzas in U.P. The
 official_website_2016
 
 ##ScreenShots
-(https://raw.githubusercontent.com/amarlearning/Abhivyakti_2016_official_website/master/img/abhivyakti.jpg)
+![Abhivyakti 2016](https://raw.githubusercontent.com/amarlearning/Abhivyakti_2016_official_website/master/img/abhivyakti.jpg)
